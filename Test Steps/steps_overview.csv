@@ -1,0 +1,31 @@
+Flow ID,Test Steps,Flow Priority
+1,"step 1: Navigate to Page_home
+step 2: Add visual checkpoint at Page_home",High
+3,"step 1: Navigate to Page_docs_key-features_discussions
+step 2: Add visual checkpoint at Page_docs_key-features_discussions",Low
+2,"step 1: Navigate to Page_docs_key-features_upvotes
+step 2: Add visual checkpoint at Page_docs_key-features_upvotes",Low
+5,"step 1: Navigate to Page_docs_setting-up-your-feed_advanced-filtering-options
+step 2: Add visual checkpoint at Page_docs_setting-up-your-feed_advanced-filtering-options",Low
+6,"step 1: Navigate to Page_docs_getting-started_pwa
+step 2: Add visual checkpoint at Page_docs_getting-started_pwa",Low
+4,"step 1: Navigate to Page_docs_setting-up-your-feed_filtering-content-feed
+step 2: Add visual checkpoint at Page_docs_setting-up-your-feed_filtering-content-feed",Low
+8,"step 1: Navigate to Page_docs_your-profile_reading-history
+step 2: Add visual checkpoint at Page_docs_your-profile_reading-history",Trivial
+9,"step 1: Navigate to Page_docs_setting-up-your-feed_blocking-tags-sources
+step 2: Add visual checkpoint at Page_docs_setting-up-your-feed_blocking-tags-sources",Trivial
+10,"step 1: Navigate to Page_docs_customize-your-feed_density
+step 2: Add visual checkpoint at Page_docs_customize-your-feed_density",Trivial
+7,"step 1: Navigate to Page_docs_key-features_pause-new-tab
+step 2: Add visual checkpoint at Page_docs_key-features_pause-new-tab",Trivial
+14,"step 1: Navigate to Page_docs_customize-your-feed_preferences
+step 2: Add visual checkpoint at Page_docs_customize-your-feed_preferences",Trivial
+13,"step 1: Navigate to Page_docs_how-does-daily-dev-work_dailydev-101
+step 2: Add visual checkpoint at Page_docs_how-does-daily-dev-work_dailydev-101",Trivial
+15,"step 1: Navigate to Page_docs_your-profile_activity
+step 2: Add visual checkpoint at Page_docs_your-profile_activity",Trivial
+11,"step 1: Navigate to Page_docs_key-features_community-picks
+step 2: Add visual checkpoint at Page_docs_key-features_community-picks",Trivial
+12,"step 1: Navigate to Page_docs_key-features_feeds
+step 2: Add visual checkpoint at Page_docs_key-features_feeds",Trivial
