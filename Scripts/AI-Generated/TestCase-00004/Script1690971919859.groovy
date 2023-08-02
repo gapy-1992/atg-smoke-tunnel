@@ -1,5 +1,5 @@
-import internal.GlobalVariable as GlobalVariable
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import internal.GlobalVariable as GlobalVariable
 
 'Initialize test session: Open browser and set view port'
 
@@ -15,7 +15,7 @@ WebUI.navigateToUrl(GlobalVariable.application_domain + '/docs/key-features/disc
 
 'step 2: Add visual checkpoint at Page_docs_key-features_discussions'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00002_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00004_visual_checkpoint')
 
 'Terminate test session: Close browser'
 
